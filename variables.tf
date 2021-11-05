@@ -3,6 +3,6 @@
 # Declare a variable so we can use it.
 variable "student_alias" {
   description = "Your student alias"
-  defaultt="user25"
+  default="user25"
 }
 
